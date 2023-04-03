@@ -5,4 +5,6 @@
  * _putchar - check the code
  */
 void _putchar(char c)
-	printf("%c", c);
+{
+	putchar(c);
+}

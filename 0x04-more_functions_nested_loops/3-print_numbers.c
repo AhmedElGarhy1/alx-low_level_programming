@@ -13,6 +13,6 @@ void print_numbers(void)
 		c = i + 48;
 		_putchar(c);
 	}
-	c = '\n'
+	c = '\n';
 	_putchar(c);
 }
