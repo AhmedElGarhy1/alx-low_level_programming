@@ -5,7 +5,7 @@
   * print_most_numbers - returns from 1 to 9
   */
 
-void print_numbers(void)
+void print_most_numbers(void)
 {
 	char c;
 	int i;
