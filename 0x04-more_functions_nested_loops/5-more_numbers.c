@@ -14,7 +14,15 @@ void more_numbers(void)
 	{
 		for (i = 0; i < 15; i++)
 		{
-			c = i + 48;
+			if (i > 9)
+			{
+				c = i + 48 - 10;
+				_putchar('1');
+			}
+			else
+		        {
+				c = i + 48;
+			}
 			_putchar(c);
 		}
 
