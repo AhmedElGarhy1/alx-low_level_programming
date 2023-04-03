@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-  * largest_number - returns the largest of 3 numbers
+  * _isupper - returns the largest of 3 numbers
   * @c: chart to test if upper or lower
   * Return: number 1 if upper else 2
   */

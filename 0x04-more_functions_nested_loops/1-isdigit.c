@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
+ * _isdigit - check the code
+ * @c: character to be tested
  * Return: Always 0.
  */
 
