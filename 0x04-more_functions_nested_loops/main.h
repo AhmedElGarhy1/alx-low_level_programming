@@ -1,5 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-isupper(char c);
+_isupper(char c);
 #endif
